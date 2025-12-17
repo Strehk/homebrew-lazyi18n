@@ -4,8 +4,8 @@ class Lazyi18n < Formula
   desc "TUI for managing i18n translation files"
   homepage "https://github.com/Strehk/lazyi18n"
 
-  url "https://github.com/Strehk/lazyi18n/releases/download/v0.1.5/lazyi18n-0.1.5.tar.gz"
-  sha256 "e246ec7aaf97443d8dc7d022b36f2597a1ca7397d8bfaac499f89011c01b2b1e"
+  url "https://github.com/Strehk/lazyi18n/releases/download/v0.1.6/lazyi18n-0.1.6.tar.gz"
+  sha256 "535e4bbaf4e720ed8b8dbc84251f9b9501dc18b66c09bf9492855687957abeda"
 
   license "MIT"
 
