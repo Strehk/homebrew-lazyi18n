@@ -1,5 +1,7 @@
 # Strehk Lazyi18n
 
+This is the homebrew tap repo of [lazyi18n](https://github.com/strehk/lazyi18n). Visit the [main repository](https://github.com/strehk/lazyi18n) to contribute or see Details.
+
 ## How do I install these formulae?
 
 `brew install strehk/lazyi18n/<formula>`
