@@ -14,7 +14,7 @@ class Lazyi18nNightly < Formula
   def install
     virtualenv_create(libexec, "python3.14")
     system libexec/"bin/python", "-m", "pip", "install", "."
-    bin.install_symlink libexec/"bin/lazyi18n-nightly"
+    bin.install_symlink libexec/"bin/lazyi18n" => "lazyi18n-nightly"
   end
 
   test do
