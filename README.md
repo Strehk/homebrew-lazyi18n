@@ -1,4 +1,4 @@
-# Strehk Lazyi18n
+# Lazyi18n
 
 This is the homebrew tap repo of [lazyi18n](https://github.com/strehk/lazyi18n). Visit the [main repository](https://github.com/strehk/lazyi18n) to contribute or see Details.
 
