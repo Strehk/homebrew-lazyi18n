@@ -4,9 +4,9 @@ class Lazyi18nNightly < Formula
   desc "TUI for managing i18n translation files"
   homepage "https://github.com/Strehk/lazyi18n"
 
-  url "https://github.com/Strehk/lazyi18n/releases/download/nightly/lazyi18n-0.1.1.dev20251217122949.tar.gz"
-  version "0.1.1.dev20251217122949"
-  sha256 "356e41037785d3d2af0b0f6a61200c7e86fc3ec386bef8fecb3445b3d4f768fb"
+  url "https://github.com/Strehk/lazyi18n/releases/download/nightly/lazyi18n-0.1.1.dev20251217141121.tar.gz"
+  version "0.1.1.dev20251217141121"
+  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
 
   license "MIT"
 
