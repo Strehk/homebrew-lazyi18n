@@ -1,13 +1,13 @@
-class Lazyi18n < Formula
+class Lazyi18nAT013 < Formula
   include Language::Python::Virtualenv
 
   desc "TUI for managing i18n translation files"
   homepage "https://github.com/Strehk/lazyi18n"
-  license "MIT"
 
-  # The 'url' and 'sha256' will be updated by 'brew bump-formula-pr' or bots
   url "https://github.com/Strehk/lazyi18n/archive/refs/tags/v0.1.3.tar.gz"
   sha256 "193a9b3e227aeea2a2688b60af14a8e8ef817f30cd696b6de23c0e60fa70b190"
+
+  license "MIT"
 
   depends_on "python@3.14"
 
