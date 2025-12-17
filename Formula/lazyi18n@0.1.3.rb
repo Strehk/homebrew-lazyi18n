@@ -5,7 +5,7 @@ class Lazyi18nAT013 < Formula
   homepage "https://github.com/Strehk/lazyi18n"
 
   url "https://github.com/Strehk/lazyi18n/archive/refs/tags/v0.1.3.tar.gz"
-  sha256 "193a9b3e227aeea2a2688b60af14a8e8ef817f30cd696b6de23c0e60fa70b190"
+  sha256 "adeebb265d19c5aeef1edad56e67edea8bd0813d4e0793b28fee7c76b8466e85"
 
   license "MIT"
 
