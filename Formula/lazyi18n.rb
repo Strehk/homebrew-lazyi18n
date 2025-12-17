@@ -5,6 +5,7 @@ class Lazyi18n < Formula
   homepage "https://github.com/Strehk/lazyi18n"
 
   url "https://github.com/Strehk/lazyi18n/releases/download/v0.1.5/lazyi18n-0.1.5.tar.gz"
+  version "0.1.5"
   sha256 "e246ec7aaf97443d8dc7d022b36f2597a1ca7397d8bfaac499f89011c01b2b1e"
 
   license "MIT"
